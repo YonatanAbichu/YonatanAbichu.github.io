@@ -1,0 +1,35 @@
+* {
+font-family: Garamond, Georgia, serif;
+color: #001b42;
+text-align: center;
+}
+body.home-page {
+    background-color:rgb(219, 218, 248)
+}
+body {
+    width: 900px;
+    margin: 0 auto;
+    border:solid
+}
+nav {
+    background-color:rgb(206, 206, 206);
+    padding: 5px;
+    margin: 5px;}
+li {
+    display: inline;
+    padding: 10px;
+}
+section {
+    overflow: auto;
+    height: 100%
+}
+body {
+width: 960px;
+margin: 0 auto;
+background-color: #b9ccef}
+#content {
+overflow: auto;
+height: 100%;}
+.column1, .column2, .column3 {
+float: left;
+margin: 10px;}
